@@ -16,7 +16,7 @@ export default async function RevenueChart() { // Make component async, remove t
   }
  
   return (
-    // ...
+    <></>
   );
 }
  
